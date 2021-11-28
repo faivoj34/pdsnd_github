@@ -169,7 +169,7 @@ def user_stats(df):
     user_total = df['User Type'].value_counts()
     print('The total amount of user types is: \n{}'.format(user_total))
     
-    #Total count of gender(male, female) only for the columns that gender is in
+    #Total count of gender(male and female) only for the columns that gender is in
     if "Gender" in df.columns:
        gender_total = df['Gender'].value_counts()
        print('The total amount of gender is:  \n{}'.format(gender_total))
