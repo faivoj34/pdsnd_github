@@ -19,7 +19,15 @@ new_york_city.csv - Dataset containing all bikeshare information for the city of
 
 washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
-### Credits
-https://www.youtube.com/watch?v=pDmYNK68IEc&t=242s
-https://www.youtube.com/watch?v=KngvG8WzYLU
+### Built With
+Python 3.9 - The language used to develop this.
 
+pandas - One of the libraries used 
+
+numpy - One of the libraries used 
+
+time - One of the libraries used 
+
+datetime - One of the libraries used 
+
+calendar - One of the libraries used
