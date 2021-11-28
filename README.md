@@ -12,10 +12,12 @@ This project focuses on pandas library and simple statistics methods to perform 
 ### Description
 Allows user to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
-### Files used
-chicago.csv
-washington.csv
-new_york_city.csv
+### Project Data
+chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+
+new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+
+washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
 ### Credits
 https://www.youtube.com/watch?v=pDmYNK68IEc&t=242s
